@@ -33,7 +33,7 @@
 ## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=FaisanL&show_icons=true&theme=tokyonight)
-![](https://github-readme-streak-stats.herokuapp.com/?username=FaisanL&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=FaisanL&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FaisanL&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## Get in touch with me 👋:
