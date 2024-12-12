@@ -21,7 +21,7 @@
 
 ## 👨🏻‍💻 About Me
 
-💼 &nbsp;As a Computer Programming Analyst at Accompany, I'm focused on developing effective and robust solutions.\
+💼 &nbsp;I'm focused on developing effective and robust solutions.\
 🌱 &nbsp;My goal is to specialize in backend development, as I’m passionate about building solid and efficient systems.\
 🌟 &nbsp;I'm open to new job opportunities where I can contribute and continue growing professionally.\
 💡 &nbsp;I have a strong interest in data security and continuously seek ways to enhance information protection in every project.\
